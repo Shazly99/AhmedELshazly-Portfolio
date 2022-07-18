@@ -1624,6 +1624,8 @@ form p {
   place-items: center;
   text-align: center;
   margin-top: 300px !important;
+  overflow: auto !important ;
+  z-index: 99999999999999999999999999999999999999999999999999999999999999999999999999999 !important;
 }
 
 .wrapper .content {
