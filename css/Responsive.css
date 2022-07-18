@@ -277,10 +277,9 @@ nav{
    font-family: sans-serif  !important;
   }
  
-  #contact{
+  #contact{  
     transform: translateY(-10%) !important;
-
-  }
+   }
   .myWork{
     transform: translateY(5%) !important;
 
@@ -290,6 +289,7 @@ nav{
   }
   .Responoverflow-hidden{
     overflow: hidden !important;
+    
   }
   
   }
@@ -329,5 +329,6 @@ nav{
      font-family: 900 !important;
     font-size: 30px !important;
   }
+
     }
 
