@@ -32,12 +32,19 @@ Framework ( Angular14 )
 
 # knowledge 
 C++ basic programming
+
 C# OOP
+
 Design Patterns
+
 Database Concept
+
 SQL Server
+
 Asp.net MVC5
+
 Entity Framework Core
+
 Asp.net core API
 
 # when you want contact with me....
