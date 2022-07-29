@@ -20,6 +20,7 @@ Adobe Xd
 JavaScript
 ( DOM & BOM , Async Programming , Regular expressions , ECMAScript 6+  )
 
+
 TypeScript
 
 JQuery 
